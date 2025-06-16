@@ -17,6 +17,13 @@
     margin: 0;
     padding: 0;}
 
+
+.pagina{
+    display: grid;
+    grid-template-rows: 1fr auto; 
+    min-height: 100vh;
+}
+
 header {
     background-color: #17375F;
     padding-bottom: 10px;
@@ -352,21 +359,15 @@ h3 {
     margin-left: -50%;
 }
 
-#rodape {
+#rodape{
     background-color: #17375F;
     text-align: center;
+    margin-top: 20vh;
     padding: 2vh;
     font-family: 'parisine';
     color: #A9C2E6;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    z-index: 1000;
-}
-
-/* Add padding to body to prevent content from being hidden behind fixed footer */
-body {
-    padding-bottom: 60px;
+    position:relative;
+    width: 98.%;
 }
 
 .accordion-button {
@@ -389,5 +390,10 @@ body {
 .meu-accordion-botao-centralizado::after {
     margin-left: 0.5em !important;
 }
+
+.accordion{
+  border-radius: 15px; overflow: hidden; 
+}
+
 
 
