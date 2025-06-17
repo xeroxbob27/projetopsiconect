@@ -1,6 +1,6 @@
 # Psiconect
 
-**Psiconect** é um projeto inovador desenvolvido pelos alunos **[Nome do Aluno 1]**, **[Nome do Aluno 2]**, **[Nome do Aluno 3]** e **[Nome do Aluno 4]**.
+**Psiconect** é um projeto desenvolvido pelos alunos **[CAROLINA CARNEIRO SILVA]**, **[KELLEN CRISTINA PONCE CINTRA]**, **[THALES CARVALHO LANA]** e **[GUILHERME HENRIQUE LOPES]**.
 
 Nosso objetivo é **disponibilizar à população informações claras e acessíveis sobre transtornos mentais**, explicando cada um, suas ramificações e os canais de ajuda disponíveis.
 
@@ -14,7 +14,7 @@ Nosso site foi desenvolvido utilizando as seguintes tecnologias:
 
 * **HTML5:** Essencial para a estruturação e organização de todo o conteúdo.
 * **CSS:** Responsável pela estilização e pelo design visual intuitivo da interface.
-* **Bootstrap:** Um framework fundamental que nos auxiliou na criação de um layout responsivo e moderno, garantindo que o site funcione bem em qualquer dispositivo.
+* **Bootstrap:** Um framework fundamental que nos auxiliou na criação de um layout responsivo e moderno.
 * **JavaScript:** Adiciona interatividade e dinamismo ao site, melhorando a experiência do usuário.
 
 ---
